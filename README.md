@@ -58,15 +58,15 @@ Projek Analisis data Bike Sharing Data/
 
 ## Penjelasan Package
 
-streamlit==1.43.1 - untuk membuat dashboard interaktif
-pandas==2.1.4 - untuk manipulasi dan analisis data
-plotly==6.0.0 - untuk membuat visualisasi interaktif
-numpy==1.25.2 - untuk operasi numerik
-matplotlib==3.8.0 - untuk visualisasi data statis
-seaborn==0.13.0 - untuk visualisasi data statistik
-scikit-learn==1.6.1 - untuk analisis data dan model statistik
-python-dateutil==2.8.2 - untuk manipulasi tanggal
-pytz==2023.3 - untuk penanganan zona waktu
+1. streamlit==1.43.1 - untuk membuat dashboard interaktif
+2. pandas==2.1.4 - untuk manipulasi dan analisis data
+3. plotly==6.0.0 - untuk membuat visualisasi interaktif
+4. numpy==1.25.2 - untuk operasi numerik
+5. matplotlib==3.8.0 - untuk visualisasi data statis
+6. seaborn==0.13.0 - untuk visualisasi data statistik
+7. scikit-learn==1.6.1 - untuk analisis data dan model statistik
+8. python-dateutil==2.8.2 - untuk manipulasi tanggal
+9. pytz==2023.3 - untuk penanganan zona waktu
 
 ## Fitur Dashboard
 
