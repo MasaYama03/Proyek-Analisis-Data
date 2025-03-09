@@ -1,0 +1,17 @@
+# Package untuk Dashboard
+streamlit==1.43.1 - untuk membuat dashboard interaktif berbasis web
+plotly==6.0.0 - untuk membuat visualisasi interaktif di dashboard
+
+# Package untuk Analisis Data (Notebook & Dashboard)
+pandas==2.1.4 - untuk manipulasi dan analisis data
+numpy==1.25.2 - untuk operasi numerik dan array
+matplotlib==3.8.0 - untuk visualisasi data statis dan plot di notebook
+seaborn==0.13.0 - untuk visualisasi data statistik di notebook
+scikit-learn==1.6.1 - untuk analisis data dan model statistik
+
+# Package Pendukung
+python-dateutil==2.8.2 - untuk manipulasi tanggal dan waktu
+pytz==2023.3 - untuk penanganan zona waktu
+
+# Catatan: Gunakan perintah berikut untuk install semua package:
+# pip install -r requirements.txt
