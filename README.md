@@ -20,7 +20,8 @@ Projek Analisis data Bike Sharing Data/
 │   └── hour.csv         # Dataset per jam original
 ├── notebook.ipynb        # Notebook analisis data
 ├── requirements.txt      # Daftar package yang diperlukan
-└── README.md            # Dokumentasi proyek
+├── README.md            # Dokumentasi proyek
+└── url.txt            # dashboard yang sudah di deploy
 ```
 
 ## Instalasi
@@ -86,9 +87,8 @@ Dashboard menyediakan visualisasi interaktif untuk:
 ## Hasil Analisis
 
 Notebook analisis (`notebook.ipynb`) menjawab beberapa pertanyaan bisnis:
-1. Faktor-faktor yang mempengaruhi jumlah penyewaan sepeda
-2. Perbedaan pola penyewaan di hari kerja vs akhir pekan
-3. Waktu puncak penyewaan sepeda dalam sehari
+1. Mengapa jumlah penyewaan sepeda cenderung lebih tinggi pada hari kerja dibandingkan dengan akhir pekan?
+2. Kapan waktu paling banyak untuk penyewaan sepeda selama sehari?
 
 ## Troubleshooting
 
